@@ -1,6 +1,6 @@
 #RafaelMatos
 #rafaelmatosrv@gmail.com
-
+#Usar ordem OCO
 
 import time
 
@@ -30,12 +30,12 @@ def detect_Compra(screen):
 def Venda():
 
     pyautogui.click(1790, 581)    #Coordenada x e y do botao venda a mercado
-    time.sleep(600)
+    time.sleep(120)# Tempo para proxima leitura 120 segundos
 
 def Compra():
 
     pyautogui.click(1620, 581)  #Coordenada x e y do botao venda a mercado
-    time.sleep(600)
+    time.sleep(120) # Tempo para proxima leitura 120 segundos
 
 
 
