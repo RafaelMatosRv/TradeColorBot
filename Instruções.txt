@@ -1,0 +1,4 @@
+0. Criar ou inserir no gráfico a regra de coloração que será utilizada, inserir o Histograma BotColorHistogram.psf no gráfico
+1. Tire print da sua tela operacional e cole no paint (Desconecte telas secundárias antes)
+2. Mapear as coodernadas x e y da barra de leitura no histograma
+3. Mapear as coodernadas x e y dos botões de compra e venda a mercado (Entrar com Ordem OCO)
